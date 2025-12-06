@@ -1,5 +1,5 @@
 # YouTube Downloader Bot
-![photo_2025-12-06_14-22-01](https://github.com/user-attachments/assets/d9ceef9d-e767-4aa1-963e-2c20d45d7cd5)
+![photo_2025-12-06_14-25-35_imgupscaler ai_Beta_2K](https://github.com/user-attachments/assets/3c29880b-6b78-4b41-bb3c-d987b94d24c0)
 
 This is a professional YouTube downloader bot written in Python. It uses the `telebot` library to interact with users
 via Telegram and the `pytube` library to download YouTube videos and audio.
